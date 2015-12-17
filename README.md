@@ -8,3 +8,6 @@ mfg.cc
     
 moviemaker.cc    
 -takes a generated .mcf file as well as a the associated scene file, and renders then saves each frame as a .tga image with the name "frame0" and increasing by 1 each frame    
+    
+kirby.txt    
+-example of a scene file specification
